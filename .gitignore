@@ -1,6 +1,6 @@
-
-/bin
-/lib
+/application.log.1
 /eclipse
-/tmp
+/lib
 /logs
+/tmp
+/13*
